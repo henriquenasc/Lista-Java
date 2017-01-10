@@ -1,4 +1,4 @@
-#Lista 15 - Java
+#Java
 
 ##Resolução dos exercícios de Java
 
