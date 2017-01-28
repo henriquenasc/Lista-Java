@@ -1,5 +1,7 @@
-public class Funcionarios{
-	private String nome;
+package lista15q1;
+
+public class Funcionarios {
+    private String nome;
 	private String numeroMatricula;
 	private int grauEscolaridade;
 	private double tempoServico;

@@ -1,3 +1,5 @@
+package lista15q02;
+
 public class Produtos {
     private String codigo;
     private String nomeFornecedor;

@@ -1,5 +1,4 @@
-// autor: Henrique Nascimento
-
+package lista15q02;
 import java.util.Scanner;
 
 public class Lista15Q02 {

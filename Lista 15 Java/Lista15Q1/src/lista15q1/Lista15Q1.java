@@ -1,8 +1,7 @@
-// autor: Henrique Nascimento
-
+package lista15q1;
 import java.util.Scanner;
-
-public class Questao01{
+// autor: Henrique Nascimento
+public class Lista15Q1{
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
 
